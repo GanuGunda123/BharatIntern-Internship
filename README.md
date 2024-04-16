@@ -1,2 +1,2 @@
 # BharatIntern-Internship
-Web-Development Taks
+Web-Development Tasks
